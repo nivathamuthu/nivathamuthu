@@ -1,87 +1,149 @@
-<h1 align="center">Hi, I'm Nivetha 👋</h1>
-<h3 align="center">Software Developer | Backend Engineer | Generative AI & RAG Systems</h3>
+<!-- Animated wave banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Hi%20There,%20I'm%20Nivetha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- Typing animation subtitle -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=4B79A1&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Python+%2F+Django+%2F+FastAPI;Building+RAG-based+Generative+AI+Systems;Backend+Engineer+for+BFSI+%26+Insurance+Platforms;Turning+Enterprise+Data+into+Intelligent+Knowledge" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nivetha21082002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-informational?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-4B79A1?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=nivathamuthu&style=for-the-badge&color=4B79A1&label=PROFILE+VIEWS"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=success&label=Experience&query=%24&url=data%3Aapplication%2Fjson%3Bbase64%2Ce30%3D&suffix=3%2B%20Years"/>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a **Software Developer with 3+ years of experience** building backend systems and Generative AI applications for the **BFSI (Banking, Financial Services & Insurance)** domain. I design REST APIs, database architectures, and RAG pipelines that turn enterprise data into intelligent, searchable knowledge.
+I'm a **Software Developer with 3+ years of experience** engineering backend systems and Generative AI applications for the **BFSI (Banking, Financial Services & Insurance)** domain. I design REST APIs, database architectures, and RAG pipelines that turn enterprise data into intelligent, searchable knowledge.
 
-Currently building **RAG-based Generative AI applications** covering policy administration, claims processing, underwriting, and financial accounting — combining solid backend engineering with modern LLM-powered retrieval.
+```python
+class Nivetha:
+    def __init__(self):
+        self.role = "Software Developer"
+        self.focus = ["Backend Engineering", "Generative AI", "RAG Systems"]
+        self.domain = "BFSI — Insurance & Financial Systems"
+        self.currently_building = "AI-Native Knowledge Engineering Platform"
 
-- 🔭 Currently building **AI-native knowledge engineering platforms** (Project Atlas)
+    def say_hi(self):
+        return "Let's build something intelligent together 🚀"
+```
+
+- 🔭 Currently building **Project Atlas** — an AI-native knowledge engineering platform
 - 🧠 Deep-diving into **Graph RAG, hybrid retrieval & knowledge graphs**
-- 🏦 Domain focus: **Insurance & Financial Systems (BFSI)**
+- 🏦 Domain expertise: **Insurance & Financial Systems**
 - 🌱 Exploring **Temporal workflows, Kafka pipelines & vector search at scale**
 - 📫 Reach me at **nivetha21082002@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
-**Languages & Backend**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-A30000?style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,redis,neo4j,elasticsearch,docker,kubernetes,aws,git,github,vscode,js&theme=dark" />
+</p>
 
-**Databases & Search**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+<div align="center">
 
-**Generative AI & Vector Search**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
-![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
-![FAISS](https://img.shields.io/badge/-FAISS-4B8BBE?style=flat-square)
+| Domain | Technologies |
+|---|---|
+| **Backend** | Django · Django REST Framework · FastAPI · Flask |
+| **Databases** | PostgreSQL · MySQL · Redis · Neo4j |
+| **Generative AI** | LangChain · LangGraph · RAG · Prompt Engineering |
+| **Vector Search** | Qdrant · Pinecone · FAISS · Elasticsearch |
+| **Distributed Systems** | Apache Kafka · Temporal · Celery |
+| **Cloud & DevOps** | AWS · Amazon S3 · Docker · Kubernetes · CI/CD |
+| **Data Acquisition** | Playwright · Crawl4AI · Firecrawl |
 
-**Infra & Tooling**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+</div>
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 🧩 Project Atlas — AI-Native Knowledge Engineering Platform
-An enterprise-grade pipeline that acquires, processes, enriches, and indexes knowledge for downstream RAG applications — handling everything from file validation and deduplication to entity extraction, knowledge graph generation, and vector indexing.
-**Stack:** Python · FastAPI · PostgreSQL · Kafka · Temporal · Neo4j · Qdrant · MinIO · Docker · Kubernetes
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### 🏦 ERP Application for BFSI (Insurance)
-Backend modules automating policy administration, claims processing, underwriting, financial accounting, and regulatory compliance — with full relational modeling across Customer, Policy, Claim, and Transaction entities.
-**Stack:** Python · Django · DRF · PostgreSQL · MySQL · JWT
+**🧩 Project Atlas**
+*AI-Native Knowledge Engineering Platform*
 
-#### 🕸️ Enterprise Compliance & Risk Intelligence Platform (Graph RAG)
-An AI-powered Graph RAG system combining vector + keyword hybrid retrieval with Neo4j knowledge graphs for enterprise compliance and regulatory risk analysis.
-**Stack:** Python · Django · FastAPI · LangGraph · Neo4j · Pinecone · Elasticsearch
+Enterprise pipeline for acquiring, enriching, and indexing knowledge for downstream RAG applications — from file validation & deduplication to entity extraction, knowledge graphs, and vector indexing.
+
+`Python` `FastAPI` `Kafka` `Temporal` `Neo4j` `Qdrant`
+
+</td>
+<td width="50%" valign="top">
+
+**🏦 ERP for BFSI (Insurance)**
+*Policy · Claims · Underwriting · Accounting*
+
+Backend modules automating end-to-end insurance workflows with full relational modeling across Customer, Policy, Claim, and Transaction entities.
+
+`Python` `Django` `DRF` `PostgreSQL` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🕸️ Compliance & Risk Intelligence**
+*Graph RAG for Enterprise Compliance*
+
+Hybrid retrieval (vector + keyword) combined with Neo4j knowledge graphs for enterprise compliance and regulatory risk analysis.
+
+`Python` `LangGraph` `Neo4j` `Pinecone`
+
+</td>
+<td width="50%" valign="top">
+
+**💼 Finleaf — Financial Platform**
+*Backend for Financial Data Processing*
+
+REST APIs with CRUD operations, optimized SQL, and data validation for a production financial application.
+
+`Python` `Django` `MySQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivathamuthu&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivathamuthu&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nivathamuthu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivathamuthu&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivathamuthu&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivathamuthu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivathamuthu&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nivathamuthu&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-<p align="center"><i>Backend systems that scale. AI applications that reason. Building where finance meets intelligence.</i></p>
+<!-- Animated footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:283E51,100:4B79A1&height=100&section=footer"/>
+</p>
+
+<p align="center"><i>Backend systems that scale. AI applications that reason. Building where finance meets intelligence. 🚀</i></p>
